@@ -1,0 +1,25 @@
+In this file we will deeply focus on finding our requires ppt template 
+
+Prompt : 
+
+" You are an expert PPT template curator.
+Find 10 free PowerPoint templates suitable for a presentation titled "[Your title]".
+
+Requirements:
+
+1) Templates must be free to download (no paid or premium-only).
+
+2) Templates should match the theme of [your title], [ preferably containing ; write some keywords of your title like if my topic is mobile processors then my keywords will be : mobile visuals, smartphones, processors, or modern technology graphics].
+
+3) Provide a direct download link for each template (not just the homepage).
+
+4) Add a short description (1–2 lines) explaining why each template fits the topic.
+
+Output should be in a numbered list (1–10) with the following format:
+
+Example Format:
+
+Template Name
+🔗 Download Link
+
+👉 Short description of why it suits “[your title].” "
